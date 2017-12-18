@@ -10,4 +10,4 @@
     android:minHeight="?android:attr/listPreferredItemHeightSmall"
     android:textColor="@color/colorAccent"
     android:textStyle="bold"
-    android:textSize="20sp" />
+    android:textSize="17sp" />
