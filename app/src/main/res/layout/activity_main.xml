@@ -1,3 +1,4 @@
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
 android:layout_width="fill_parent"
 android:layout_height="fill_parent"
@@ -13,7 +14,7 @@ android:fillViewport="true" >
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Active tasks"
-        android:textSize="25sp"/>
+        android:textSize="21sp"/>
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -28,7 +29,7 @@ android:fillViewport="true" >
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Completed  tasks"
-        android:textSize="25sp"/>
+        android:textSize="21sp"/>
 
 
     <ListView
